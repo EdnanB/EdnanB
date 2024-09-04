@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">LinkedIn: /<br>Email: ednan_bosanac@hotmail.com</p>
+<p align="left">LinkedIn: <a href="https://www.linkedin.com/in/ednan-be%C5%A1i%C4%87-35955423b/?trk=opento_sprofile_topcard" target="_blank">https://www.linkedin.com/in/ednan-be%C5%A1i%C4%87-35955423b/?trk=opento_sprofile_topcard</a><br>Email: <a href="mailto:ednan_bosanac@hotmail.com">ednan_bosanac@hotmail.com</a></p>
 
 ###
 
