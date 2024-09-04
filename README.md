@@ -2,9 +2,12 @@
 I'm an aspiring developer who recently completed a 1-year course in Python, Machine Learning, and AI. I'm passionate about programming and eager to continue learning and improving my skills. I'm excited to start my journey in the IT sector and contribute to meaningful projects!
 
 💻 About Me
-🔍 Background: I have a diverse background in customer support and have recently shifted my focus to programming. I have foundational knowledge in Python, web development (HTML, CSS, JavaScript, Django, Flask), and tools like Selenium for web scraping.
-🌱 Continuous Learner: Actively expanding my understanding of full-stack development, machine learning, and data science. I love experimenting with new technologies and applying them to real-world problems.
-⚽️ Beyond Coding: I enjoy playing football, traveling, and working with computers. I've been around computers from a young age, always eager to learn and explore.
+🔍 Background: 
+I have a diverse background in customer support and have recently shifted my focus to programming. I have foundational knowledge in Python, web development (HTML, CSS, JavaScript, Django, Flask), and tools like Selenium for web scraping.
+🌱 Continuous Learner: 
+Actively expanding my understanding of full-stack development, machine learning, and data science. I love experimenting with new technologies and applying them to real-world problems.
+⚽️ Beyond Coding: 
+I enjoy playing football, traveling, and working with computers. I've been around computers from a young age, always eager to learn and explore.
 🔧 My Skills
 Programming: Python (beginner), basic knowledge of JavaScript
 Web Development: HTML, CSS, Flask, Django (beginner)
