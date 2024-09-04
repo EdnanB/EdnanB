@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left"> **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)<br>**Email**: [ednan_bosanac@hotmail.com](mailto:ednan_bosanac@hotmail.com)</p>
+<p align="left">LinkedIn: /<br>Email: ednan_bosanac@hotmail.com</p>
 
 ###
 
